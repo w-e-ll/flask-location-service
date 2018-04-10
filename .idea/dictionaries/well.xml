@@ -2,6 +2,12 @@
   <dictionary name="well">
     <words>
       <w>clearfix</w>
+      <w>firstname</w>
+      <w>lastname</w>
+      <w>postgresql</w>
+      <w>pwdhash</w>
+      <w>sqlalchemy</w>
+      <w>tablename</w>
     </words>
   </dictionary>
 </component>
